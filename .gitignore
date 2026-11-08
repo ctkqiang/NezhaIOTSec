@@ -1,0 +1,5 @@
+bin/
+.screenshots/
+.trae/
+.DS_Store
+*.log
